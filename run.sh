@@ -27,7 +27,7 @@ cd ~
 logPath='/root/bee-run.log'
 cashlogPath='/root/bee-cash.log'
 passPath='/root/bee-pass.txt'
-swapEndpoint='https://goerli.infura.io/v3/48a8fc2feccd4a439b9bc17daa14c9b4'
+swapEndpoint='https://goerli.infura.io/v3/9aa3d95b3bc440fa88ea12eaa4456161'
 cashScriptPath='/root/bee-cashout.sh'
 
 homedir=$HOME
